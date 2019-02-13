@@ -7,4 +7,8 @@ file2
 
 古诗
 
+<<<<<<< HEAD
 ki
+=======
+寄存
+>>>>>>> 9eae9ba5f1a68c3d3eeca25048dc7e6f8416df88
